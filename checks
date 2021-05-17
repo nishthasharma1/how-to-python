@@ -1,0 +1,35 @@
+mistakes: 
+
+
+meaning: 
+breaking your code:
+Finding out defects or bugs in the code. 
+Such as, after performing particular steps, 
+making sure that the system wont work as per the expectations.
+
+to 
+
+commands to remember: 
+close - closes file (eg. File->Save... in your editor)
+read - reads content of file. you can assign the result to a variable
+readline - reads just one line of a text file
+truncate - empties the file (watch out if you care about the file)
+write('stuff') - writes 'stuff' to the file
+seek(0) - move the read/write location in the beginning of the file
+
+escape sequences: 
+\\ = backlash (\)
+\' = single quote (')
+\" = double quote (")
+\a = ASCII bell (BEL)
+\b = ASCII backspace (BS)
+\f = ASCII formfeed (FF)
+\n = ASCII linefeed (LF)
+\N{name} = charached named name in the unicode database
+\r = Carriage Return (CR)
+\t = horizontal tab (tab)
+\uxxxx = character wth 16bit hex value xxxx (u" string only)
+\Uxxxxxxxx = character with 32bit hex value xxxxxxxx
+\v = ASCII vertical tab (VT)
+\ooo = characted with octal value ooo
+\xhh = character with hex value hh
