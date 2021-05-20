@@ -3,8 +3,10 @@ from sys import argv
 script, filename = argv
 
 print(f"We're going to erase {filename}.")
-print("If you don't want that, hit CTRL-C (^C).")
-print("If you do want that, hit RETURN.")
+print(f"""
+If you don't want that, hit CTRL-C (^C).
+If you do want that, hit RETURN.
+""")
 
 input ("?")
 
@@ -31,3 +33,17 @@ target.write("\n")
 
 print("And finally, we close it.")
 target.close() 
+
+'''
+study drills: 
+1. 
+line 1: importing features/modules 
+line 3: assigning the script
+line 5,6,7: printing directions
+line 9: inputting values
+
+2. i can make it shorter with 1 line
+
+3. 
+
+'''

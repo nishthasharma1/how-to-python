@@ -20,7 +20,7 @@ You live in {lives}. Not sure where that is.
 And you have a {computer} computer. Nice.
 """)
 
-#1: played it, didn't get it haha
+#1: played it, didn't get it haha 
 #2: it just changes the bullets
 #3: did i do this right?? 
 #4: print(f""" something something something """")
