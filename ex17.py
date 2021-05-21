@@ -22,3 +22,17 @@ print("Alright, all done.")
 out_file.close()
 in_file.close()
 
+'''
+exists are another command: 
+- return true if file exists based on its name ina  string as an argv
+- return false if not
+
+** echo to make a file and cat to show the file
+
+study drills:
+3. command "con*cat*enates" prints a file to the screen 
+- know more through (man cat)
+
+the len() gets the length of the string that you pass to it then returns that as a number
+
+'''

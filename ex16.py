@@ -44,6 +44,8 @@ line 9: inputting values
 
 2. i can make it shorter with 1 line
 
-3. 
+3. how you do that? 
+
+4/5. HUHHHHHH
 
 '''
