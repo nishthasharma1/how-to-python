@@ -1,0 +1,13 @@
+did you start your function definition with def? 
+does function name have only characters and _ characters? 
+did you put ( right after the function name? 
+did you put ) and a : after the arguments? 
+did you indent all lines of code you want in the function four spaces? 
+did you 'end' your function by going back to writing with no indent? 
+
+to run ("use" or "call") a function:
+did you call/use/run this function by typing the name? 
+did you put ( after the name to run it? 
+did you end the values you want into the () separated my commas? 
+did you end function call with )? 
+

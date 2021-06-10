@@ -22,7 +22,14 @@ print_one("First!")
 print_none()
 
 '''
+
+functions:
+- name pieces of code the way variable name strings and numbers
+- take arguments the way scripts take argvs
+
+breakdown: 
 def means define
+line 1: 
 
-
+3. 
 '''
