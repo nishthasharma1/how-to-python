@@ -54,5 +54,7 @@ remember this jumps to where the main function is defined on line 5 and on 10, m
 causing loop to keep going 
 the if line: on line 8 prevent loop from going on forever
 
-
+breaking it: 
+1. the print and return statement is embedded within the if
+2.  it gives you an error of undefined
 '''
