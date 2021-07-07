@@ -5,7 +5,7 @@ fruits = ['apples', 'oranges', 'pears', 'apricots']
 change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
 
 #this first kind of for-loop goes through a list 
-for number in the-count:
+for number in the_count:
     print(f"This is count {number}")
 
  #same as above
@@ -26,6 +26,11 @@ for i in range(0,6):
     #append is a function that lists understand 
     elements.append(i)
 
-#now we can print them out too
+#now we can print them out to
 for i in elements: 
-    print(f"Element was: {i}")
+   print(f"Element was: {i}")
+
+'''
+1. range = goes from 0 or x in increments of 1 to a place before the noted value
+2. no,you can't do that
+'''
