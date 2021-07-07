@@ -41,9 +41,9 @@ print("--------------")
 
 
 five = 10 - 2 + 3 - 6
-print(f"This should be five: {five}"
+print(f"This should be five: {five}")
 
-def secret_formula(start_point):
+def secret_formula(start_point): 
     jelly_beans = started * 500
     jars = jelly_beans / 1000
     crates = jars + 100
@@ -93,5 +93,5 @@ if people <= dogs:
     print("People are less than or equal to dogs.")
 
 
-if people = dogs:
+else:
     print("People are dogs.") 

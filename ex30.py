@@ -10,7 +10,7 @@ elif cars < people:
 else: 
     print("We can't decide.")
 
-if trucks > cars: 
+if trucks > cars:
     print("That's too many trucks.")
 elif trucks < cars:
     print("Maybe we could take the trucks.")
@@ -21,3 +21,11 @@ if people > trucks:
     print("Alright, let's just take the trucks.")
 else: 
     print("Fine, let's stay home then.")
+'''
+1. elif vs else: 
+elif - is an option other than if statement
+else - is only possible if if statement is not true
+
+2. the outputs may change
+
+'''
