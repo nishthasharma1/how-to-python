@@ -1,0 +1,12 @@
+#accessing elements of life
+
+animals = ['bear', 'python3.6', 'peacock', 'kangaroo', 'whale']
+1. the animal at 1
+"The animal  "
+2. the third animal
+3. the first animal
+4. the animal at 3
+5. the fifth animal
+6. the animal at 2
+7. the sixth animal
+8. the animal at 4 
