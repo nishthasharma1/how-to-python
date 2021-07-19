@@ -7,7 +7,7 @@ def gold_room():
     if "0" in choice or "1" in choice:
         how_much = int(choice)
     else: 
-        dead("Main, learn how to type a number.")
+        dead("Man, learn how to type a number.")
 
     if how_much < 50: 
         print("Nice, you're not greedy, you win!")
@@ -18,7 +18,7 @@ def gold_room():
 def bear_room():
     print("There is a bear here.")
     print("The bear has a bunch of honey.")
-    print("The fat hear is in front of another door.")
+    print("The fat bear is in front of another door.")
     print("How are you going to move the bear?")
     bear_moved = False
 
@@ -39,7 +39,7 @@ def bear_room():
             print("I got no idea what that means")
 
 def cthulhu_room():
-    print("Here you see the greawt evil Cthulhu.")
+    print("Here you see the great evil Cthulhu.")
     print("He, it, whatever stares at you and you go insanse.")
     print("Do you flee for you life or eat your head?")
 
@@ -72,3 +72,12 @@ def start():
         dead("You stumble around the room until you starve.")
 
 start()
+
+'''
+study drills
+1. Draw a map of the game and how you flow through it
+2. fix your mistakes - spelling included
+3. write comments for the functions you don't understand
+5. you could use the int() function in order for it to be more lenient with the precision of the number that is inputted
+
+'''
